@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: Amit's Twitter Lab Action
+author: Amit Deshmukh
+description: Gopher Con MS LAB 2021
 inputs:
   message:
     description: 'message you want to tweet'
